@@ -1,0 +1,9 @@
+ 
+///en java do --- while 
+do{
+	
+                 System.out.println("afficher arguments  "+args[i]);
+
+             i=i+1;
+	
+             }while(i<args.length && afiche);
